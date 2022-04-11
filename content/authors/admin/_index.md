@@ -20,8 +20,14 @@ bio: Lancaster PhD candidate.
 
 # Interests to show in About widget
 interests:
-- Mental Health and Productivity
-- Performance Management Practices
+- Human Resource Management
+- Mental Health and Wellbeing
+- Performance Management / Performativity
+- Critical Management
+- Productivity and Efficiency
+- Business Ethics
+- Identity and the 'self'
+- Social Psychology
 
 # Education to show in About widget
 education:
@@ -59,9 +65,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hannahmjackson/
-- icon: etsy
-  icon_pack: fab
-  link: https://www.etsy.com/uk/shop/PaperHugDesignsUK
+# - icon: etsy
+#   icon_pack: fab
+#   link: https://www.etsy.com/uk/shop/PaperHugDesignsUK
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,12 +83,13 @@ email: ""
 highlight_name: true
 ---
 
-I'm a PhD student in Management & Organisational Behaviour working with {{< staticref "https://www.lancaster.ac.uk/lums/people/bogdan-costea" "newtab" >}}Prof. Bogdan Costea{{< /staticref >}} at Lancaster University.
+I'm a PhD student in Management & Organisational Behaviour working with {{< staticref "https://www.lancaster.ac.uk/lums/people/bogdan-costea" "newtab" >}}Prof. Bogdan Costea{{< /staticref >}}, {{< staticref "https://www.lancaster.ac.uk/lums/people/theodore-vurdubakis" "newtab" >}}Prof. Theodore Vurdubakis{{< /staticref >}} and {{< staticref "https://www.lancaster.ac.uk/lums/people/peter-watt" "newtab" >}}Dr. Peter Watt{{< /staticref >}} at Lancaster University.
 
-I hold an MSc in Psychology from Lancaster University, where I worked in the {{< staticref "https://www.youtube.com/watch?v=d70cn93VP70" "newtab" >}}Nark Lab{{< /staticref >}} on [thesis topic]. Before this, I gained a BA in Management & Organisational Behaviour from Lancaster University, where I worked on [thesis topic].
+My research seeks to explore and understand the impact that the moral obligation to become the best version of oneself within the workplace can have on contemporary employees’ productivity and wellbeing. In a world consumed by positivity and potential, I seek to better appreciate the human psyche in work, by exploring how and why we have created a culture that encourages us to engage in a way of operating that, despite its optimistic exterior, leaves society feeling deficit and inadequate. 
 
-I previously worked at Mars as a Senior Brand Manager and GSK in HR Capability Operations.
+I hold a MSc in Psychology (Distinction) from University of Nottingham, with a research dissertation exploring the relationship between smartphone addiction and mental health. Prior to this I gained a first-class BSc in Management and Organisational Behaviour from Lancaster University (top in my cohort). My undergraduate dissertation explored the dark(er) side of performance management in the HR department of a large UK pharmaceutical company. 
 
-In my spare time I create handcrafted paper art, check out {{< staticref "https://www.etsy.com/uk/shop/PaperHugDesignsUK" "newtab" >}}my Etsy page{{< /staticref >}}!
+In between my undergraduate and postgraduate studies I was employed at Mars on their Management Development graduate programme for 3 years.
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

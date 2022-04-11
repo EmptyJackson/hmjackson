@@ -31,14 +31,14 @@ experience:
     date_end: '2020-08-01'
     description: SBM working on all Brand Innovation, Strategy, Customer Activation and Communication for UK Skittles and Starburst Marketing.
 
-  - title: Customer Development Executive
+  - title: National Account Manager, Petcare
     company: Mars
     company_url: 'https://www.mars.com/'
     company_logo: mars
     location: Nottingham
     date_start: '2018-09-01'
     date_end: '2019-09-01'
-    description: Customer Development Management on Asda, Sales, UK Petcare.
+    description: Responsible for a multi-million pound portfolio alongside one of the largest supermarket retailers in the industry. 
 
   - title: Value Stream Sustainability Project Lead
     company: Mars
@@ -47,21 +47,16 @@ experience:
     location: Slough
     date_start: '2017-09-01'
     date_end: '2018-08-01'
-    description: |3-
-        Management Leadership Experience (MLE) / Management Development Programme (MMDP).
-        
-        Three-year rotational graduate scheme made up of three placements in three entirely different roles/departmental areas.
-        
-        Value Stream Sustainability Project Lead, Supply, UK Chocolate.
+    description: Project Lead for a sustainability initiative to reduce energy usage in Slough’s chocolate factory and significantly reduce their overall environmental impact.
 
-  - title: Global HR and HR Capability - Year in Industry/Placement Year
+  - title: Global HR and HR Capability - Year in Industry / Placement Year
     company: GSK
     company_url: 'https://www.gsk.com/'
     company_logo: gsk
     location: London
     date_start: '2015-06-01'
     date_end: '2016-07-01'
-    description: Enter job description here, LinkedIn one was very long
+    description: Worked in the HR for HR team supporting the leadership team to build the Talent, Leadership and Developmental agendas for 2,000 global HR employees. 
         
 design:
   columns: '2'
